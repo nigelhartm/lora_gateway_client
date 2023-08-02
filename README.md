@@ -4,8 +4,6 @@ The gateway additional takes the task to forward the received data to a IoT-Midd
 
 Here are some more background information in german:
 
-sorry :(
-
 # Internet of Things
 Der Begriff „Internet of Things“ (kurz: IoT) bezeichnet die Vernetzung von Endgeräten
 mit dem Internet, dabei muss das Endgerät autark Aufgaben für den Besitzer erledigen
